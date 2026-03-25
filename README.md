@@ -14,4 +14,4 @@ A simple Python-based To-Do List application to manage daily tasks.
 
 ## How to Run
 Run the Python file:
-python To DO List.py
+To DO List Project.py
